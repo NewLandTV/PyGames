@@ -1,3 +1,8 @@
+"""
+.py
+Creation Date: 2022.01.15. Sat, 17:28:29
+Modified Date: 2022.01.15. Sat, 17:30:10
+"""
 from asyncio import FastChildWatcher, wait_for
 from os import WNOWAIT, fwalk
 from re import A, S
