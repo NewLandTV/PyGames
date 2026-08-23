@@ -1,3 +1,8 @@
+"""
+LoadImage.py (Dev note p.377)
+Creation Date: 2023.05.15. Mon, 16:12:57
+Modified Date: 2023.05.15. Mon, 16:21:25
+"""
 import pygame
 import sys
 
