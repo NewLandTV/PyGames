@@ -1,3 +1,8 @@
+"""
+TTT
+Creation Date: 2021.11.26. Fri, 23:13:32
+Modified Date: 2021.03.18. Thu, 20:08:20
+"""
 import pygame
 import numpy as np
 
