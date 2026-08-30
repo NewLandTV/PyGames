@@ -7,3 +7,7 @@
 ## 2. TTT
 
 원본 게임: Connect 4
+
+## 3. Random Up Down
+
+참고 게임: 숫자 업다운
